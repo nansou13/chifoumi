@@ -1,9 +1,9 @@
 import { defineMessages } from 'react-intl.macro'
 
 export const messages = defineMessages({
-  welcome: {
-    id: 'Component.welcome',
-    defaultMessage: 'Welcome to React',
-    description: 'title',
+  title: {
+    id: 'Component.title',
+    defaultMessage: 'ChiFouMi !',
+    description: 'website title',
   },
 })
